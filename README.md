@@ -2,6 +2,8 @@
 
 Bienvenue dans le terrier de Foxy Security,  (Python AntiVirus System) !
 
+![Texte alternatif](screens/banner.jpg)
+
 Marre des virus qui jouent à cache-cache sur votre PC ? Foxy est là pour flairer les menaces ! Développé avec amour (et beaucoup de Python), ce projet vise à fournir une solution antivirus open-source utilisant la puissance de Python, la flexibilité de PyQt5 pour l'interface, et la magie noire de `ctypes` pour discuter directement avec Windows.
 
 Ce document est votre carte du terrier : il explique comment Foxy fonctionne, comment le code est organisé, et ce que fait chaque recoin du projet. Attachez vos ceintures (ou vos queues de renard) !
