@@ -3,6 +3,8 @@ import ctypes, ctypes.wintypes
 import requests, msvcrt, pyperclip
 from Foxy_Engine import YRScan, DLScan
 from PYAS_Suffixes import file_types
+import pyi_splash
+
 
 from Foxy_Interface import Ui_MainWindow
 from PyQt5.QtWidgets import *
@@ -3553,6 +3555,8 @@ if __name__ == '__main__':
     
     
     main_window = MainWindow_Controller()
+    pyi_splash.close()
+
 
     
     sys.exit(app.exec_())
