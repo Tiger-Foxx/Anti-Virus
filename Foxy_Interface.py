@@ -793,7 +793,7 @@ class Ui_MainWindow(object):
         font.setFamily("Microsoft YaHei")
         font.setPointSize(9)
         self.Virus_Scan_output.setFont(font)
-        self.Virus_Scan_output.setStyleSheet("QWidget::item{background-color: rgba(50,50,50,30); color:black; border: transparent; border-bottom: 1px solid 
+        self.Virus_Scan_output.setStyleSheet("QWidget::item{background-color: rgba(50,50,50,30); color:black; border: transparent; border-bottom: 1px solid #dbdbdb; padding: 5px;} QWidget::item:hover{background-color: rgba(50,50,50,40);} QListView{outline: none;}")
         self.Virus_Scan_output.setEditTriggers(QtWidgets.QAbstractItemView.NoEditTriggers)
         self.Virus_Scan_output.setTabKeyNavigation(False)
         self.Virus_Scan_output.setProperty("showDropIndicator", True)
@@ -1185,7 +1185,7 @@ class Ui_MainWindow(object):
         font.setFamily("Microsoft YaHei")
         font.setPointSize(9)
         self.Process_list.setFont(font)
-        self.Process_list.setStyleSheet("QWidget::item{background-color: rgba(50,50,50,30); color:black; border: transparent; border-bottom: 1px solid 
+        self.Process_list.setStyleSheet("QWidget::item{background-color: rgba(50,50,50,30); color:black; border: transparent; border-bottom: 1px solid #dbdbdb; padding: 5px;} QWidget::item:hover{background-color: rgba(50,50,50,40);} QListView{outline: none;}")
         self.Process_list.setAutoScroll(True)
         self.Process_list.setEditTriggers(QtWidgets.QAbstractItemView.NoEditTriggers)
         self.Process_list.setTabKeyNavigation(True)

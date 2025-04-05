@@ -457,13 +457,13 @@ class MainWindow_Controller(QMainWindow):
         
         self.ui.PYAS_Version.setText(f"Foxy Security V{self.pyas_version} ({self.pyae_version})")
         self.ui.GUI_Made_title.setText("Interface Design:")
-        self.ui.GUI_Made_Name.setText("mtkiao")
+        self.ui.GUI_Made_Name.setText("Fox")
         self.ui.Core_Made_title.setText("Core Development:")
-        self.ui.Core_Made_Name.setText("87owo")
+        self.ui.Core_Made_Name.setText("Fox")
         self.ui.Testers_title.setText("Special Thanks:")
-        self.ui.Testers_Name.setText("0sha0") 
+        self.ui.Testers_Name.setText("The-Fox") 
         self.ui.PYAS_URL_title.setText("Official Website:")
-        self.ui.PYAS_URL.setText("<html><head/><body><p><a href=\"https://github.com/87owo/PYAS\"><span style=\" text-decoration: underline;\">")
+        self.ui.PYAS_URL.setText(self.trans("<html><head/><body><p><a href=\"https://github.com/Tiger-Foxx/Anti-Virus\"><span style=\" text-decoration: underline; color:#000000;\">https://the-fox.tech</span></a></p></body></html>"))
         self.ui.License_terms_title.setText("License Terms:")
 
         
