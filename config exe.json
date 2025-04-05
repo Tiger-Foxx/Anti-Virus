@@ -1,0 +1,137 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/Foxy.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": false
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/favicon_3dg_icon.ico"
+  },
+  {
+   "optionDest": "name",
+   "value": "Foxy Security"
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "splash",
+   "value": "C:/Users/donfa/Downloads/Gemini_Generated_Image_et59mvet59mvet59.jpg"
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "hide_console",
+   "value": "hide-early"
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/.gitignore;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/demand.txt;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/favicon.png;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/favicon_3dg_icon.ico;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/Foxy_Engine.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/Foxy_Interface.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/LICENSE.md;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/PYAS_Language.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/PYAS_Resource.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/PYAS_Suffixes.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/PYAS_Version.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/README.md;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/Driver;Driver/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/Engine;Engine/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/Extens;Extens/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/donfa/OneDrive/Desktop/CRAZY FOX/PYAS-main/screens;screens/"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}

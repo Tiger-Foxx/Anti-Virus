@@ -463,7 +463,7 @@ class MainWindow_Controller(QMainWindow):
         self.ui.Testers_title.setText("Special Thanks:")
         self.ui.Testers_Name.setText("0sha0") 
         self.ui.PYAS_URL_title.setText("Official Website:")
-        self.ui.PYAS_URL.setText("<html><head/><body><p><a href=\"https://github.com/87owo/PYAS\"><span style=\" text-decoration: underline; color:
+        self.ui.PYAS_URL.setText("<html><head/><body><p><a href=\"https://github.com/87owo/PYAS\"><span style=\" text-decoration: underline;\">")
         self.ui.License_terms_title.setText("License Terms:")
 
         
